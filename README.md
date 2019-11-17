@@ -1,2 +1,2 @@
 # typeScriptExamples
-Some simple type script examples
+Some simple typescript examples that should have been uploaded long ago
