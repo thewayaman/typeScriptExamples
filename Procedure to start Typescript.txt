@@ -1,0 +1,19 @@
+C:\demon\TypeScript>npm install -g typescript
+C:\Users\vshadmin\AppData\Roaming\npm\tsc -> C:\Users\vshadmin\AppData\Roaming\npm\node_modules\typescript\bin\tsc
+C:\Users\vshadmin\AppData\Roaming\npm\tsserver -> C:\Users\vshadmin\AppData\Roaming\npm\node_modules\typescript\bin\tsserver
++ typescript@3.0.3
+added 1 package in 12.341s
+
+C:\demon\TypeScript>tsc -v
+Version 3.0.3
+
+C:\demon\TypeScript>tsc -target
+error TS6044: Compiler option 'target' expects an argument.
+error TS6046: Argument for '--target' option must be: 'es3', 'es5', 'es6', 'es2015', 'es2016', 'es2017', 'es2018', 'esnext'.
+
+C:\demon\TypeScript>tsc Exp1.ts  //Compiles the code
+
+C:\demon\TypeScript>node Exp1.js //Executes the code
+Lets start TypeScript            //output 
+
+C:\demon\TypeScript>
